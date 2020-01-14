@@ -1,0 +1,8 @@
+[package]
+name = "tp5"
+version = "0.1.0"
+authors = ["teo <teokaltrachian16@hotmail.com>"]
+
+[dependencies]
+rust_hepia_lib = { path = "../rust_hepia_lib" }
+lib_teo = { path = "../lib_teo" }

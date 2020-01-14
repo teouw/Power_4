@@ -1,0 +1,7 @@
+[package]
+name = "lib_teo"
+version = "0.1.0"
+authors = ["teo <teokaltrachian16@hotmail.com>"]
+
+[dependencies]
+rust_hepia_lib = { path = "../rust_hepia_lib" }
